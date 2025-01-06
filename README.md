@@ -2,12 +2,17 @@
 
 ## INTRODUCTION
 
-Objective : To conduct a comprehensive analysis of an E-Commerce sales data using Advanced Excel features to uncover actionable insights driving  data-driven decision-making and strategic business growth.
-Approach : Perform Exploratory Data Analysis (EDA) in Excel , utilizing pivot tables, charts, slicers to investigate trends, patterns, and correlations in sales data.
+Objective :
+To conduct a comprehensive analysis of an E-Commerce sales data using Advanced Excel features to uncover actionable insights driving  data-driven decision-making and strategic business growth.
+
+Approach :
+Perform Exploratory Data Analysis (EDA) in Excel , utilizing pivot tables, charts, slicers to investigate trends, patterns, and correlations in sales data.
+
 Key Focus Areas :
 Investigate trends, patterns, and correlations in sales data
 Research correlations between sales and profit across different Months
-Compare sales and profit across different regions 
+Compare sales and profit across different regions
+
 Deliverables :
 Design an interactive sales dashboard that analyzes the sales based on various product categories. 
 Do additional analysis as per your understanding of the dataset. 
@@ -26,10 +31,8 @@ Create a Sales Dashboard in a new worksheet, presenting all the visuals along wi
 
 #### RECOMMENDATIONS
 
-Focus on High-Performing Regions
 Invest in Central and Southeast Asia for continued growth .
 Address inefficiencies in North Asia by reviewing costs and refining pricing.
-Product Optimization
 Promote high-performing products (T-Shirts, Tyre , Apple Laptops).
 Improve or phase out low-performing products (Car Mats, Curtains, Keyboards) through strategies like bundling or targeted discounts.
 
